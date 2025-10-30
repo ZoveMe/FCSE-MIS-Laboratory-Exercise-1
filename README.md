@@ -1,5 +1,9 @@
-# exam_scheduler
+# Laboratory Exercise 1: Exam Scheduler
 
- Flutter project.
- Damjan Mitrovski 222022
+A simple Flutter app for viewing an exam schedule.  
+Displays a list of exams with dates, times and locations.
 
+---
+
+**Author:** Damjan Mitrovski  
+**Index Number:** 222022
