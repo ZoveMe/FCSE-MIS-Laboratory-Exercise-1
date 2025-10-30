@@ -5,5 +5,5 @@ Displays a list of exams with dates, times and locations.
 
 ---
 
-**Author:** Damjan Mitrovski  
-**Index Number:** 222022
+**Author:** Damjan Mitrovski 222022
+
