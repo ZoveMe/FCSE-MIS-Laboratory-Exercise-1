@@ -40,7 +40,7 @@ class ExamDetailScreen extends StatelessWidget {
             ),
           ),
           child: Column(
-            mainAxisSize: MainAxisSize.min, // 👈 this is the fix
+            mainAxisSize: MainAxisSize.min, 
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text('Датум и време:', style: Theme.of(context).textTheme.titleMedium),
