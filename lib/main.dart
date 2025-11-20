@@ -22,7 +22,7 @@ class ExamSchedulerApp extends StatelessWidget {
           margin: EdgeInsets.symmetric(horizontal: 12, vertical: 6),
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.all(Radius.circular(16))),
         ),
-        textTheme: GoogleFonts.robotoTextTheme(), // 👈 apply Google Fonts here
+        textTheme: GoogleFonts.robotoTextTheme(), 
       ),
       home: const HomeScreen(),
       debugShowCheckedModeBanner: false,
